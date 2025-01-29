@@ -1,4 +1,4 @@
-// NO DIRETÓRIO LIB VAI TODA A LÓGICA DE PROGRAMAÇÃO
+// TIPOS
 
 void variableTypes() {
   int integerVar = 1;
